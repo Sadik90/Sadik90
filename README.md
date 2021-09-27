@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sadik90
-- 👀 I’m interested in python Deep Leanring
+- 👀 I’m interested in python Deep Learning
 - 🌱 I’m currently learning Deep Learning Computational Models
 - 💞️ I’m looking to collaborate on Genomics Deep Learning Modek
 - 📫 Facebook : Sadik Bhattarai
