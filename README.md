@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sadik90)
 
-# Geeks ! I'm Sadik Bhattarai. 👋 Coffee Lover 
+# Geeks ! I'm Sadik Bhattarai. 👋 Apprehensive 
 
 ## About Me
 - 👨🏻‍💻 Exploring new technologies and developing software solutions and quick hacks.
@@ -13,14 +13,14 @@
 - Knows Numpy, Pytorch, Tensorflow 
 - Experienced at Neural Network Modelling specially Discriminative Neural Network, Generative Neural Network, Optimization, Method of Interpretability, and Result presentation.
 
-- 
 
 ## Tech Stack
-- 💻 Python, Matlab (Signal Processing and Filter Design)
+- 💻 Python, R for Life Science,  Matlab (Signal Processing and Filter Design)
 - 🌐 HTML5, CSS, JavaScript, Bootstrap, Node.js, React
 - 🛢 MySQL, MongoDB [Learning] 
 - ⚙️ Git, GitHub
 - 🔧 Visual Studio Code [Advancing the use of Pylint, flake8, Unit Test)
+- 
 
 ## Personal Choice 
 📚 Hobbies & Recommendations
