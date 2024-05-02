@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# Hey there! I'm Sadik Bhattarao. 👋
+
+# Geeks ! I'm Sadik Bhattarai. 👋
 
 ## About Me
 - 👨🏻‍💻 Exploring new technologies and developing software solutions and quick hacks.
