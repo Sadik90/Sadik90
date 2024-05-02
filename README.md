@@ -2,7 +2,7 @@
 
 # Geeks ! I'm Sadik Bhattarai. 👋 Apprehensive 
 
-![Profile Picture](https://github.com/Sadik90/Sadik90/blob/main/Protein-Engineering.jpg)
+![Profile Picture](https://github.com/Sadik90/Sadik90/blob/main/OIG4.jpg)
 
 ## About Me
 - 👨🏻‍💻 Exploring new technologies and developing software solutions and quick hacks.
