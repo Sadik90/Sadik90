@@ -54,7 +54,4 @@ Through the lens of photography, the pages of novels, the reels of cinema, and t
 
 -Please follow this link [Github](https://github.com/aayush-dhakal/ai_all_resources/). And if you find more, dont forgot to share.
 
-##Do you want to start a business ?
-- Please Ping me at my facebook or Linked In, so we can connect to invest and generate ideas, values and product to reach market.
-
 ## Thank you !! Be in a good health and happy learning !!
