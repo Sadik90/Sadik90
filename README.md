@@ -49,3 +49,12 @@ Through the lens of photography, the pages of novels, the reels of cinema, and t
 ## Podcast [Artifical Intelligence] and Youtube Channels
 - [Podcast](https://podcasters.spotify.com/pod/show/sadik-bhattarai/)
 - [Travel Vlog](https://www.youtube.com/@peace4735/videos/)
+
+## Do you want to start your carrer in AI ?
+
+-Please follow this link [Github](https://github.com/aayush-dhakal/ai_all_resources/). And if you find more, dont forgot to share.
+
+##Do you want to start a business ?
+- Please Ping me at my facebook or Linked In, so we can connect to invest and generate ideas, values and product to reach market.
+
+## Thank you !! Be in a good health and happy learning !!
