@@ -1,4 +1,4 @@
-
+![Profile Views](https://komarev.com/ghpvc/?username=Sadik90)
 
 # Geeks ! I'm Sadik Bhattarai. 👋
 
