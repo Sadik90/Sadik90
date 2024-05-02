@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sadik90)
 
-# Geeks ! I'm Sadik Bhattarai. 👋
+# Geeks ! I'm Sadik Bhattarai. 👋 Coffee Lover 
 
 ## About Me
 - 👨🏻‍💻 Exploring new technologies and developing software solutions and quick hacks.
