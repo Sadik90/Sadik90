@@ -3,8 +3,6 @@
 
 # Geeks ! I'm Sadik Bhattarai. 👋 Apprehensive 
 
-![Profile Picture](https://github.com/Sadik90/Sadik90/blob/main/Protein-Engineering.jpg)
-
 ## About Me
 - 👨🏻‍💻 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Computer Science graduate from Pokhara University.
