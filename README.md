@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sadik90)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Geeks ! I'm Sadik Bhattarai. 👋 Apprehensive 
 
