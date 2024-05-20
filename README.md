@@ -1,6 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sadik90)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
 # Geeks ! I'm Sadik Bhattarai. 👋 Apprehensive 
 
 ## About Me
@@ -16,7 +18,7 @@
 
 
 ## Tech Stack
-- 💻 Python, R for Life Science,  Matlab (Signal Processing and Filter Design)
+- 💻 Python, R for Life Science,  Matlab (Signal Processing and Filter Design)  
 - 🌐 HTML5, CSS, JavaScript, Bootstrap, Node.js, React
 - 🛢 MySQL, MongoDB [Learning] 
 - ⚙️ Git, GitHub
@@ -52,5 +54,7 @@ Through the lens of photography, the pages of novels, the reels of cinema, and t
 ## Do you want to start your carrer in AI ?
 
 -Please follow this link [Github](https://github.com/aayush-dhakal/ai_all_resources/). And if you find more, dont forgot to share.
+
+-Interactive Python and DSA [PYTHON](https://www.w3resource.com/python/python-tutorial.php) and [DSA](https://visualgo.net/en).
 
 ## Thank you !! Be in a good health and happy learning !!
