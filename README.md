@@ -57,4 +57,6 @@ Through the lens of photography, the pages of novels, the reels of cinema, and t
 
 -Interactive Python and DSA [PYTHON](https://www.w3resource.com/python/python-tutorial.php) and [DSA](https://visualgo.net/en).
 
+-Comprehensive Study [Source](https://quickref.me/).
+
 ## Thank you !! Be in a good health and happy learning !!
