@@ -17,6 +17,8 @@
 - Experienced at Neural Network Modelling specially Discriminative Neural Network, Generative Neural Network, Optimization, Method of Interpretability, and Result presentation.
 
 
+
+
 ## Tech Stack
 - 💻 Python, R for Life Science,  Matlab (Signal Processing and Filter Design)  
 - 🌐 HTML5, CSS, JavaScript, Bootstrap, Node.js, React
@@ -24,6 +26,9 @@
 - ⚙️ Git, GitHub
 - 🔧 Visual Studio Code [Advancing the use of Pylint, flake8, Unit Test)
 - 
+
+## Check Once for ALL
+[Easy Ref](https://quickref.me/)
 
 ## Personal Choice 
 📚 Hobbies & Recommendations
