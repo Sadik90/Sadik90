@@ -53,6 +53,8 @@ Through the lens of photography, the pages of novels, the reels of cinema, and t
 
 ## Do you want to start your carrer in AI ?
 
+- Easy AI [Github](https://github.com/somwrks/Machine-Learning-Course/blob/master/Machine%20Learning%20Specialization/Supervised%20Machine%20Learning/C1_W3_Logistic_Regression.ipynb). 
+
 -Please follow this link [Github](https://github.com/aayush-dhakal/ai_all_resources/). And if you find more, dont forgot to share.
 
 -Interactive Python and DSA [PYTHON](https://www.w3resource.com/python/python-tutorial.php) and [DSA](https://visualgo.net/en).
@@ -63,3 +65,4 @@ Through the lens of photography, the pages of novels, the reels of cinema, and t
 
 [Technology Development from Scratch](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-programming-language)
 ## Thank you !! Be in a good health and happy learning !!
+
