@@ -36,16 +36,16 @@
 
 
  ## Experience
-Computational Bioinformatics AI Engineer (2021-Present) - NSCL Bioinformatics (https://juyoungbio.com/) [ South Korea]
-IT Support Manager (2018-2021) - Fair Action Nepal[Nepal]
-Graphic Designer (2020-2021) - National Youth Council [Nepal]
-Red Ginseng Festival Prime Ambassador (2022) - South Korea
-Student Ambassador (2024) - Jeonbuk National University [ South Korea]
-Promotional Content Creator (2022-2024) - Jeonbuk National University, Idea Creative [South Korea]
-Promotiona Content Creator - Jeonju Special Mission - Jeonju Travel Academy and Jeonju Friends [South Korea]
+- Computational Bioinformatics AI Engineer (2021-Present) - NSCL Bioinformatics (https://juyoungbio.com/) [ South Korea]
+- IT Support Manager (2018-2021) - Fair Action Nepal[Nepal]
+- Graphic Designer (2020-2021) - National Youth Council [Nepal]
+- Red Ginseng Festival Prime Ambassador (2022) - South Korea
+- Student Ambassador (2024) - Jeonbuk National University [ South Korea]
+- Promotional Content Creator (2022-2024) - Jeonbuk National University, Idea Creative [South Korea]
+- Promotiona Content Creator - Jeonju Special Mission - Jeonju Travel Academy and Jeonju Friends [South Korea]
 
 
-## Check Once for ALL
+## CheatCode Hacks
 [Easy Ref](https://quickref.me/)
 
 ## Personal Choice 
