@@ -36,13 +36,24 @@
 
 
  ## Experience
-- Computational Bioinformatics AI Engineer (2021-Present) - NSCL Bioinformatics (https://juyoungbio.com/) [ South Korea]
+- Computational Bioinformatics AI Engineer (2021-Present) - NSCL Bioinformatics (#https://juyoungbio.com/) [ South Korea]
 - IT Support Manager (2018-2021) - Fair Action Nepal[Nepal]
 - Graphic Designer (2020-2021) - National Youth Council [Nepal]
 - Red Ginseng Festival Prime Ambassador (2022) - South Korea
 - Student Ambassador (2024) - Jeonbuk National University [ South Korea]
 - Promotional Content Creator (2022-2024) - Jeonbuk National University, Idea Creative [South Korea]
 - Promotional Content Creator - Jeonju Special Mission - Jeonju Travel Academy and Jeonju Friends [South Korea]
+
+## Interested in my Publications?
+If you're interested in my research work and publications, you can check out the following:
+
+- **Papers Published**:
+  - [ACP-ADA](#https://www.mdpi.com/1422-0067/23/20/12194)
+  - [Advancing Peptide-Based Cancer Therapy with AI: In-Depth Analysis of State-of-the-Art AI Models](#https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c00295)
+  - [AntiCPs-CompML](#https://www.biorxiv.org/content/biorxiv/early/2024/06/29/2024.06.27.601090.full.pdf)
+
+- **Books**:
+  - [100 Quotes](#https://www.booksie.com/663418-mini-century-quotes)
 
 
 ## CheatCode Hacks
