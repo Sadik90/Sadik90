@@ -48,12 +48,12 @@
 If you're interested in my research work and publications, you can check out the following:
 
 - **Papers Published**:
-  - [ACP-ADA](#https://www.mdpi.com/1422-0067/23/20/12194)
-  - [Advancing Peptide-Based Cancer Therapy with AI: In-Depth Analysis of State-of-the-Art AI Models](#https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c00295)
-  - [AntiCPs-CompML](#https://www.biorxiv.org/content/biorxiv/early/2024/06/29/2024.06.27.601090.full.pdf)
+  - [ACP-ADA](https://www.mdpi.com/1422-0067/23/20/12194)
+  - [Advancing Peptide-Based Cancer Therapy with AI: In-Depth Analysis of State-of-the-Art AI Models](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c00295)
+  - [AntiCPs-CompML](https://www.biorxiv.org/content/biorxiv/early/2024/06/29/2024.06.27.601090.full.pdf)
 
 - **Books**:
-  - [100 Quotes](#https://www.booksie.com/663418-mini-century-quotes)
+  - [100 Quotes](https://www.booksie.com/663418-mini-century-quotes)
 
 
 ## CheatCode Hacks
