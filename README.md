@@ -42,7 +42,7 @@
 - Red Ginseng Festival Prime Ambassador (2022) - South Korea
 - Student Ambassador (2024) - Jeonbuk National University [ South Korea]
 - Promotional Content Creator (2022-2024) - Jeonbuk National University, Idea Creative [South Korea]
-- Promotiona Content Creator - Jeonju Special Mission - Jeonju Travel Academy and Jeonju Friends [South Korea]
+- Promotional Content Creator - Jeonju Special Mission - Jeonju Travel Academy and Jeonju Friends [South Korea]
 
 
 ## CheatCode Hacks
