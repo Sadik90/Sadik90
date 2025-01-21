@@ -1,3 +1,97 @@
+# 👋 Hello, I'm Sadik Bhattarai!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sadik90&style=flat-square&color=blueviolet)
+
+## About Me
+I'm a passionate researcher and developer exploring new technologies and creating innovative solutions. I hold a degree in Computer Science from Pokhara University and am currently a Research Assistant at Jeonbuk National University, specializing in Bioinformatics. My work focuses on Cancer and Anticancer peptides research.
+
+## Current Status
+- **Research Assistant** at Jeonbuk National University
+  - Specializing in Bioinformatics
+  - Focus on Cancer and Anticancer peptides research
+
+## Experience
+- **Computational Bioinformatics AI Engineer** (2021-Present) - [NSCL Bioinformatics](https://juyoungbio.com/)
+- **IT Support Manager** (2018-2021) - Fair Action Nepal
+- **Graphic Designer** (2020-2021) - National Youth Foundation
+- **Red Ginseng Festival Prime Ambassador** (2022) - South Korea
+- **Student Ambassador** (2024) - Jeonbuk National University
+- **Promotional Content Creator** (2022-2024) - Jeonbuk National University, Idea Creative
+- **Jeonju Travel Academy and Jeonju Friends**
+
+## Skills
+### Technical Skills
+- **Programming Languages**: Python, R (for Life Science), Matlab (Signal Processing and Filter Design)
+- **Web Development**: HTML5, CSS, JavaScript, Bootstrap, Node.js, React
+- **Databases**: MySQL, MongoDB (currently learning)
+- **Tools**: Git, GitHub, Visual Studio Code (advancing the use of Pylint, flake8, Unit Test)
+
+### AI and Machine Learning
+- **Frameworks**: Numpy, Pytorch, Tensorflow
+- **Specializations**: Neural Network Modelling (Discriminative Neural Network, Generative Neural Network), Optimization, Method of Interpretability, and Result Presentation
+
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=mathworks)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+
+## Personal Interests
+### Hobbies
+- **Photography & Video Making**: Capturing moments and stories through the lens of a camera.
+- **Reading Novels**: Recommendations include "Think Again" by Adam Grant.
+- **Cinema**: Favorite movie - "A Beautiful Mind".
+- **Football**: Passionate about the game.
+
+### Recommendations
+- **Books**: "Think Again" by Adam Grant
+- **Movies**: "A Beautiful Mind"
+
+## Connect with Me
+- [Instagram](#)
+- [Facebook](#)
+- [LinkedIn](#)
+- [Podcast](#)
+- [YouTube](#)
+- [Travel Vlog](#)
+
+## Projects
+### [ACPDA](https://github.com/Sadik90/ACPDA)
+- **Repository**: Forked from chenxgscuec/ACPDA
+- **Description**: Prediction of anticancer peptides
+- **Language**: Python
+
+## Additional Resources
+- **Easy AI GitHub**: [GitHub](#)
+- **Interactive Python and DSA**: [Python and DSA](#)
+- **Comprehensive Study Source**: [Study Source](#)
+
+Thank you for visiting my profile! Stay healthy and happy learning!
+
+
+
+
+
+
+
+
+
+
+
+
+............................................................................................................................................................................................................................
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Sadik90)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
