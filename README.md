@@ -33,21 +33,32 @@
 - ⚙️ Git, GitHub
 - 🔧 Visual Studio Code [Advancing the use of Pylint, flake8, Unit Test)
 - 
+- **Writing**:
+- Latex [ Overleaf, TexStudio ]
+- Word
 
 
  ## Experience
+ 
 - Computational Bioinformatics AI Engineer (2021-Present) - NSCL Bioinformatics (#https://juyoungbio.com/) [ South Korea]
-- IT Support Manager (2018-2021) - Fair Action Nepal[Nepal]
-- Graphic Designer (2020-2021) - National Youth Council [Nepal]
-- Red Ginseng Festival Prime Ambassador (2022) - South Korea
+- Red Ginseng Festival Prime Ambassador (2022) - [ South Korea ]
 - Student Ambassador (2024) - Jeonbuk National University [ South Korea]
 - Promotional Content Creator (2022-2024) - Jeonbuk National University, Idea Creative [South Korea]
 - Promotional Content Creator - Jeonju Special Mission - Jeonju Travel Academy and Jeonju Friends [South Korea]
+- IT Support Manager (2018-2021) - Fair Action Nepal[Nepal]
+- Graphic Designer (2020-2021) - National Youth Council [Nepal]
 
+##Volunteer Activities
+
+- Instand Earthquake Releif Volunteer at [Sarbodaya Nepal](https://sarbodaya.org.np/)
+- Reviewer in Computers In Biology [CBM](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
+- Reviewer in Breifeing in Bioinforamtics [BIB] (https://academic.oup.com/bib/)
+  
 ## Interested in my Publications?
 If you're interested in my research work and publications, you can check out the following:
 
 - **Papers Published**:
+  
   - [ACP-ADA](https://www.mdpi.com/1422-0067/23/20/12194)
   - [Advancing Peptide-Based Cancer Therapy with AI: In-Depth Analysis of State-of-the-Art AI Models](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c00295)
   - [AntiCPs-CompML](https://www.biorxiv.org/content/biorxiv/early/2024/06/29/2024.06.27.601090.full.pdf)
