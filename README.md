@@ -1,32 +1,26 @@
 
-
-
-
-............................................................................................................................................................................................................................
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Sadik90)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+......................................................................................................................................................................................................................
 # Geeks ! I'm Sadik Bhattarai. 👋 Apprehensive 
 
+
+......................................................................................................................................................................................................................
 ## About Me
+
 - 👨🏻‍💻 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Computer Science graduate from Pokhara University.
 - 🌱 Learning more about Cloud Architecture, Systems Design, Blockchain, and Artificial Intelligence[Bioinformatics.
 
 ## Current Status
 
-- Research Assistant at Jeonbuk National University, specializing in Bioinformatics, with a focus on Cancer and Anticancer peptides research.
-- Knows Numpy, Pytorch, Tensorflow 
+- PhD Scholars at Jeonbuk National University, specializing in Bioinformatics, with a focus on Cancer and Anticancer peptides research.
 - Experienced at Neural Network Modelling specially Discriminative Neural Network, Generative Neural Network, Optimization, Method of Interpretability, and Result presentation.
 
-
-
-
 ## Tech Stack
+
 - 💻 Python, R for Life Science,  Matlab (Signal Processing and Filter Design)  
 - 🌐 HTML5, CSS, JavaScript, Bootstrap, Node.js, React
 - 🛢 MySQL, MongoDB [Learning] 
@@ -34,6 +28,7 @@
 - 🔧 Visual Studio Code [Advancing the use of Pylint, flake8, Unit Test)
 - 
 - **Writing**:
+ 
 - Latex [ Overleaf, TexStudio ]
 - Word
 
