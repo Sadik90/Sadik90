@@ -61,6 +61,12 @@ If you're interested in my research work and publications, you can check out the
 - **Books**:
   - [100 Quotes](https://www.booksie.com/663418-mini-century-quotes)
 
+##Interesetd in my Writing ?
+
+ - [nomadic_scholar님의 블로그](https://blog.naver.com/PostView.naver?blogId=nomadic_scholar&Redirect=View&logNo=223795842118&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=28502)
+
+## Interested in my Podcast ? 
+  - [DAI KO PODCAST](https://www.youtube.com/watch?v=qMUBcsHYw08)
 
 ## CheatCode Hacks
 [Easy Ref](https://quickref.me/)
